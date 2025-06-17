@@ -71,26 +71,26 @@ We primarily use the following tech stack:
 
 ## Members
 Our current contributors include:
-- @Malikabdullah33550
-- @mahnoorwaseem1
-- @LAIBAKANWAL
-- @hasnains11
-- @faizan7800
-- @usama7365
-- @VisalRazaZaidi
-- @Uzmakh
-- @Ghauoor
-- @fiazniazi31
-- @quratulainaqeel
-- @ASK-Baloch
-- @Aliwebdeveloper1
-- @mhnmughal
-- @codexmaham
-- @Afif-Ur-Rahman
-- @Umer-Zurgham
-- @kaneezfati
-- @AwaisAhmad211
-- @KhadijaaNawaz
+- [@Malikabdullah33550](https://github.com/Malikabdullah33550)
+- [@mahnoorwaseem1](https://github.com/mahnoorwaseem1)
+- [@LAIBAKANWAL](https://github.com/LAIBAKANWAL)
+- [@hasnains11](https://github.com/hasnains11)
+- [@faizan7800](https://github.com/faizan7800)
+- [@usama7365](https://github.com/usama7365)
+- [@VisalRazaZaidi](https://github.com/VisalRazaZaidi)
+- [@Uzmakh](https://github.com/Uzmakh)
+- [@Ghauoor](https://github.com/Ghauoor)
+- [@fiazniazi31](https://github.com/fiazniazi31)
+- [@quratulainaqeel](https://github.com/quratulainaqeel)
+- [@ASK-Baloch](https://github.com/ASK-Baloch)
+- [@Aliwebdeveloper1](https://github.com/Aliwebdeveloper1)
+- [@mhnmughal](https://github.com/mhnmughal)
+- [@codexmaham](https://github.com/codexmaham)
+- [@Afif-Ur-Rahman](https://github.com/Afif-Ur-Rahman)
+- [@Umer-Zurgham](https://github.com/Umer-Zurgham)
+- [@kaneezfati](https://github.com/kaneezfati)
+- [@AwaisAhmad211](https://github.com/AwaisAhmad211)
+- [@KhadijaaNawaz](https://github.com/KhadijaaNawaz)
 
 ---
 
